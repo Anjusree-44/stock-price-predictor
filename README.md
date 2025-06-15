@@ -1,6 +1,7 @@
 # 📈 stock-price-predictor
 # 📈 Stock Price Trend Prediction with LSTM
 
+
 This project predicts future stock prices using historical market data and deep learning (LSTM). It includes technical indicators for better accuracy and an optional dashboard for visualization.
 
 ---
@@ -46,13 +47,6 @@ Predict future stock prices using past trends with the help of deep learning mod
 
 ---
 
-## ▶️ How to Run
-
-### 1. Install Required Packages
-```bash
-pip install -r requirements.txt!
-
----
 ## Screenshots
 ![P3](https://github.com/user-attachments/assets/8d062ab1-fd13-4888-8c97-1799fa6847a2)
 ![P2](https://github.com/user-attachments/assets/9e172802-fd3b-4fab-af83-70f6d07f8854)
